@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "frameworks": [
+    {
+      "slug": "ai-code-governance",
+      "catalog_version": "0.2.0"
+    },
+    {
+      "slug": "eu-ai-act",
+      "catalog_version": "1.1.1"
+    },
+    {
+      "slug": "iso-27001",
+      "catalog_version": "1.0.0"
+    },
+    {
+      "slug": "soc-2",
+      "catalog_version": "1.0.0"
+    },
+    {
+      "slug": "dora",
+      "catalog_version": "1.1.1"
+    }
+  ]
+}
